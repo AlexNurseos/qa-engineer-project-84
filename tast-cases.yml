@@ -8,6 +8,7 @@
   test-data: |
     no data
   steps:
+    - Нажать на кнопку cart
     - Нажимаем кнопку clear cart
   expected-result: |
     Корзина должна быть очищена
