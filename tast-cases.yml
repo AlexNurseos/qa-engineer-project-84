@@ -164,6 +164,24 @@
      - Нажать кнопку удалить
    expected-result: |
      Товар колличеством одна единица удалился из корзины
+
+- summary: |
+     Проверка кроссбраузерности сайта
+   requirments: |
+     Сайт нужно протестировать на совместимость с последними версиями браузеров
+   prerequisites: |
+     - Google Chrome
+     - Firefox
+     - Safari
+   test-data: |
+     no data
+   steps: |
+     - Открыть сайт в Google Chrome
+     - Открыть сайт в Firefox
+     - Открыть сайт в Safari
+   expected-result: |
+     Сайт отображается корректно 
+    
     
      
      
