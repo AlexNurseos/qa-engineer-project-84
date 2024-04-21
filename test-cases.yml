@@ -5,49 +5,49 @@
      При нажатии на кнопку clear cart все добавленные товары должны удаляться
   prerequisites: |
      Товар добавлен в корзину
-   test-data: |
+  test-data: |
      no data
-   steps:
+  steps:
      - Нажать на кнопку cart
      - Нажимаем кнопку clear cart
-   expected-result: |
+  expected-result: |
      Корзина была очищена
     
 - summary: |
      Проверка фильтра по категории 
-   requirement: |
+  requirement: |
      Пользователь должны иметь возможность фильтровать товары по категории
-   prerequisites: | 
+  prerequisites: | 
      empty
-   test-data: |
+  test-data: |
      no data
-   steps:
+  steps:
      - В строке категории выбираем laptops
-   expected-result: |
+  expected-result: |
      На главной странице отображаются товары из категории laptops
     
 - summary: |
      Проверка наличия карточки товара
-   requirement: |
+  requirement: |
      При нажатии на любой товар должна открываться карточка товара
-   prerequisites: |
+  prerequisites: |
      empty
-   test-data: |
+  test-data: |
      no data  
-   steps:
+  steps:
      - Нажимаем на любой товар на главной странице магазина
-   expected-result: |
+  expected-result: |
      Открывается карточка товара
     
 - summary: |
      Добавление товара в корзину 
-   requirement: |
+  requirement: |
      Пользователь имеет возможность добавлять товары в корзину                 
-   prerequisites: |
+  prerequisites: |
      empty
-   test-data: |
+  test-data: |
      no data
-   steps:
+  steps:
      - Выбираем товар Iphone 9
      - Нажимаем кнопку Add to cart
      - Переходим во вкладку cart
