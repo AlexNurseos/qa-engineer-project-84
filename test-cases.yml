@@ -58,7 +58,7 @@
     Проверяем работу Цена
   requirement: |
     Пользователь должен иметь возможность воспользоваться фильтром по цене
-  prereqisites: |
+  prerequisites: |
     empty
   test-data: |
     no data
@@ -70,9 +70,9 @@
     
 - summary: |
     Проверка отображения всех товаров в каталоге
-  reqisites: |
+  requirement: |
     При убранной галочке в графе В наличии будут отображаются все товары
-  prereqisites: |
+  prerequisites: |
     В графе В наличии должна стоять галочка
   test-data: |
     no data
@@ -83,9 +83,9 @@
     
 - summary: |
     Проверка наличия мобильной версии сайта
-  requirements: |
+  requirement: |
     С помощью DevTools проверить несколько популярных мобильный устройств
-  prereqisites: |
+  prerequisites: |
     Открыт иснтрумент разработчика DevTools
   test-data: |
     no data
@@ -127,7 +127,7 @@
     Проверка доступности сайта на других устройствах
   requirements: |
     С помощью DevTools проверить доступность сайта на других устройствах
-  prerequsites: |
+  prerequisites: |
     Открыт инструмент разработчика DevTools
   test-data: |
     no data
@@ -142,7 +142,7 @@
   requirement: |
     При нажатии кнопку оформить заказ,  появится всплывающее окно с
     уведомление о том что заказ оформлен
-  prerequisistes: |
+  prerequisites: |
     Товар добавлен в корзину
   test-data: |
     no data
