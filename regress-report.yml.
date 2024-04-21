@@ -1,3 +1,23 @@
 - summary: |
     Очищение корзины от добавленных товаров
   status: pass
+
+- summary: |
+    Очищение корзины от добавленных товаров
+  status: pass
+
+- summary: |
+    Проверка наличия карточки товара
+  status: pass
+
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: | 
+    Проверяем работу Цена
+  status: fail
+
+- summary: |
+   Проверка наличия мобильной версии сайта
+  status: pass
