@@ -1,9 +1,9 @@
 ---
 - summary: |
      Очищение корзины от добавленных товаров 
-   requirement: |
+  requirement: |
      При нажатии на кнопку clear cart все добавленные товары должны удаляться
-   prerequisites: |
+  prerequisites: |
      Товар добавлен в корзину
    test-data: |
      no data
