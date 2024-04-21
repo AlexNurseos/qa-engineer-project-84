@@ -1,1 +1,59 @@
+- summary: |
+    Очищение корзины от добавленных товаров
+  status: pass
 
+- summary: |
+    Проверка фильтра по категории laptops
+  status: pass
+
+- summary: |
+    Проверка наличия карточки товара
+  status: pass
+  
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: | 
+    Проверяем работу Цена
+  status: pass
+
+- summary: |
+    Проверка отображения всех товаров в каталоге
+  status: fail
+
+- summary: |
+   Проверка наличия мобильной версии сайта
+  status: fail
+
+- summary: |
+   Проверка поиска товара по ключевому слову
+  status: pass
+
+- summary: |
+   Возможность изменить язык
+  status: pass
+
+- summary: |
+   Проверка доступности сайта на других устройствах
+  status: pass
+
+- summary: |
+     Оформление заказа
+    status: pass
+
+- summary: |
+     Возможность удалять товар из корзины 
+    status: pass
+
+
+
+
+
+
+
+
+
+
+   
+    
