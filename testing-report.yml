@@ -39,16 +39,16 @@
   status: pass
 
 - summary: |
-     Оформление заказа
-    status: pass
+   Оформление заказа
+  status: pass
 
 - summary: |
-     Возможность удалять товар из корзины 
-    status: pass
+   Возможность удалять товар из корзины 
+  status: pass
 
 - summary: |
-     Проверка кроссбраузерности сайта
-    status: pass
+   Проверка кроссбраузерности сайта
+  status: pass
 
 
 
