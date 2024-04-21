@@ -64,7 +64,7 @@
   steps:
     - В графе "from" отставляем 0
     - в графе "to" пишем 14
-  expected-result: >
+  expected-result: |
     У нас будут отображаться 3 товара perfume Oil, Fog Scent
     Xpressio Perfume, Tree Oil 30ml
     
@@ -92,7 +92,7 @@
   steps: |
     - В инструменте разработчика toggle divice toolbar
     - Выбираем по списку любую предложенную нам модель мобильного телефона
-  expected-result: >
+  expected-result: |
     Версия сайта должна отображаться корректно на всех предложенных
     нам мобильных устройствах
     
@@ -107,7 +107,7 @@
     no data
   steps: |
     - в графу поиск вводим phone
-  expected-result: >
+  expected-result: |
     На главной странице отобразиться все товары в названии которых
     содержится слово phone
     
