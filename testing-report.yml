@@ -15,7 +15,7 @@
   status: pass
 
 - summary: | 
-    Проверяем работу Цена
+    Проверка фильтра по цене
   status: pass
 
 - summary: |
