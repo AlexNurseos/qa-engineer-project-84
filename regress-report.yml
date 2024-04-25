@@ -54,7 +54,7 @@ test-cases:
 
   - summary: |
       Передача данных серверу при успешном оформлении заказа
-  status: fail
+    status: fail
       
     
 bugreports:
