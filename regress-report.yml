@@ -34,7 +34,7 @@ test-cases:
     
   - summary: |
       Наличие русской локализации
-    status: pass
+    status: fail
     
   - summary: |
       Проверка доступности сайта на планшетах
@@ -59,7 +59,7 @@ test-cases:
     
 bugreports:
   - summary: |
-      Мультиязычность
+      Ошибка русской локализации
     environment: |
       Версия 124.0.6367.61 (Официальная сборка), (64 бит)
       OC Windows 10 22H2
