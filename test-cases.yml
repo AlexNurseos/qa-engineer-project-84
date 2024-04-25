@@ -192,6 +192,7 @@
   test-data: |
     no data
   steps:
+    - открываем вкладку корзина
     - открываем DevTools
     - нажимаем кнопку оформить заказ
   expected-result: |
