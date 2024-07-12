@@ -197,3 +197,17 @@
     - нажимаем кнопку оформить заказ
   expected-result: |
     клиент передал серверу данные о заказе
+
+- summary: |
+     
+  requirement: |
+    2
+  prerequisites: |
+    3
+    4
+  test-data: |
+    5
+  steps:
+    - 6
+  expected-result: |
+    7
